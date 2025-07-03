@@ -1,4 +1,4 @@
-# ChatbotFarm Budget Tracker
+# ChatbotFarm.ai Budget Tracker
 
 **“Connecting Business To The Grid”**  
 A free, client-hosted budget tracking app designed to help small businesses manage income, expenses, and recurring costs — powered by modern frontend tools.
@@ -29,5 +29,5 @@ A free, client-hosted budget tracking app designed to help small businesses mana
 
 1. **Clone or Download this Repository**
    ```bash
-   git clone https://github.com/yourusername/free-apps-budget-tracker.git
+   git clone https://github.com/chatbotfarm/free-apps-budget-tracker.git
    cd free-apps-budget-tracker
